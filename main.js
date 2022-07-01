@@ -20,6 +20,6 @@ function tocaSomPuff () {
     document.querySelector('#som_tecla_puff').play();
 }
 
-document.querySelector('.tecla_puff').onclick = tocaSomPuff
+document.querySelector('.tecla_puff').onclick = tocaSomPuff;
 
 
